@@ -73,4 +73,10 @@ npm install
 npm start
 ```
 
+
 5. Tarayıcınızda http://localhost:3000 adresine gidin ve Movie App uygulamasını görmelisiniz.
+
+![Ana Sayfa](https://github.com/utkubayrak/MovieApp-FullStack/assets/83377498/27114395-9531-4756-9273-9413a00b9095)
+![Detay Sayfası](https://github.com/utkubayrak/MovieApp-FullStack/assets/83377498/afb197c2-ad55-452c-ab23-e2c6c8a5e547)
+![Admin Page](https://github.com/utkubayrak/MovieApp-FullStack/assets/83377498/7643529b-6c9d-4094-8005-2ead6224552a)
+
