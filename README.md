@@ -1,4 +1,4 @@
-# Todo List App
+# Movie App
 
 Bu bir film uygulamasıdır. Bu websitesinde kullanıcı kayıt yapabilir, oturum açabilir, eğer admin ise film ekleyip silebilir. Filmler kategoriler altında listelenir. Eklenen tüm filmler ana sayfada gösterilir.
 
